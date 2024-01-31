@@ -3,8 +3,8 @@ The objective of this project is to extract contact information from the home fi
 
 # Review Website structure:
 
-<img src="./Image\Website_structure.png" width="1000" height="150">
+<img src="./Images\Website_structure.png">
 
 # Output in excel:
 
-<img src="./Image\Output_demo.png" width="400" height="150">
+<img src="./Images\Output_demo.png">
