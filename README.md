@@ -4,8 +4,8 @@ The extracted data will be organized and compiled into an Excel spreadsheet. Eac
 
 # Review Website structure:
 
-<img src="./Image\Website_structure.png" width="1000" height="150">
+<img src="./Images\Website_structure.png">
 
 # Output in excel:
 
-<img src="./Image\Output_demo.png" width="400" height="150">
+<img src="./Images\Output_demo.png">
